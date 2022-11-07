@@ -18,5 +18,5 @@ I'm Xiaomeng, I go by Brady.
 - OS: Linux, macOS, windows
 
 ## Contact
-- https://bradyxu831.vercel.app
-- [@Xiaomeng Xu](https://www.linkedin.com/in/xiaomeng-xu-915ba9200/) on LinkedIn 
+[Personal Portfolio](https://bradyxu831.vercel.app)
+<br /><br />[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaomeng-xu-915ba9200/)
