@@ -3,7 +3,7 @@ I'm Xiaomeng, I go by Brady.
 <br />I'm a full stack developer. My location is in📍Ottawa, ON, Canada.
 
 ## Skills
-- Programming Language: JavaScript/Node.js/TypeScript, Java
+- Programming Language: Java, JavaScript/Node.js/TypeScript
 - Framework or Library 
   - Java: Spring, Spring MVC, Spring Boot, MyBatis, Hibernate, JPA, Redis, Log4j, Junit
   - JavaScript: React.js, Redux, Express.js, Jest, Axios
