@@ -3,19 +3,18 @@ I'm Xiaomeng, I go by Brady.
 <br />I'm a full stack developer. My location is in📍Ottawa, ON, Canada.
 
 ## Skills
-- Programming Language: Java, JavaScript/Node.js/TypeScript
+- Programming Language: C#, Java, JavaScript/Node.js/TypeScript
 - Framework or Library 
-  - Java: Spring, Spring MVC, Spring Boot, MyBatis, Hibernate, JPA, Redis, Log4j, Junit
-  - JavaScript: React.js, Redux, Express.js, Jest, Axios
+  - C#: ASP.NET, EF core, .NET Identity
+  - Java: Spring, Spring MVC, Spring Boot, Spring Data JPA, Spring Security 
+  - JavaScript: Angular, React.js, Redux, Express.js, Jest                
 - Database: 
-  - Relational: MySQL, PostgreSQL, Microsoft SQL Server, Oracle Database
-  - Non-relational: MongoDB
-- UI: HTML, CSS, Bootstrap, Material-UI, TailwindCSS
+  - Relational: SQL Server, MySQL, PostgreSQL
+  - Non-relational: Redis, MongoDB
+- UI: HTML, CSS, Bootstrap
 - Network Technology: OSI Model, TCP/IP Model, HTTP, FTP, WebSocket, RESTful API, Ajax
-- Dependency Management Tool: Maven, NPM, Yarn
-- Bundle and Deployment: Webpack, Nginx, Tomcat, Docker, AWS
-- Source Control: Git, Jira
-- OS: Linux, macOS, windows
+- OS: Linux, macOS, Windows
+- Miscellaneous: Git, Jira, AWS, Azure, Jenkins, Nginx, Docker
 
 ## Contact
 [Personal Portfolio](https://bradyxu831.vercel.app)
