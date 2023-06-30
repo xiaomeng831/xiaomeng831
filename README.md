@@ -7,6 +7,8 @@
 
 - 📄 Know about my experiences [https://bradyxu831.vercel.app/resume](https://bradyxu831.vercel.app/resume)
 
+- ⚡ Fun fact **I'm a Manchester United fan.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/in/xiaomeng-xu-915ba9200/" target="blank">
