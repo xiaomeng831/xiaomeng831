@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brady</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://bradyxu831.vercel.app/](https://bradyxu831.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://bradyxuportfolio.vercel.app/](https://bradyxuportfolio.vercel.app/)  
 
 - 📫 How to reach me **bradyxu831@gmail.com**
 
-- 📄 Know about my experiences [https://bradyxu831.vercel.app/resume](https://bradyxu831.vercel.app/resume)
+- 📄 Know about my experiences [https://bradyxuportfolio.vercel.app/#about](https://bradyxuportfolio.vercel.app/#about)
 
 - ⚡ Fun fact **I'm a Manchester United fan.**
 - ⚡ Fun fact **I love to travel and explore. I've been to ten countries.**
